@@ -6,7 +6,7 @@ KiCad symbol and footprint for Orient Display's OD-454.
 Extract the project's zip file to a temporary folder.
 
 **In KiCad project manager:**
-* Select File -> New -> Project, write the name of the project, select Save.
+* Select File -> New -> Project, write the name of the project as 'test_proj', select Save.
 * Click Footprint Editor.
 
 **In Footprint Editor:**
