@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP OD-454
+D Character LCD Display Module Reflective 7-Segment TN - Twisted Nematic 50.80mm x 30.50mm x 2.80mm
+K 4.5 digit 7-segment LCD Display
+F https://www.orientdisplay.com/standard_lcd/od-454.pdf
+$ENDCMP
+#
+#End Doc Library
